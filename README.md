@@ -1,6 +1,6 @@
 # TowerDefence2022.03Unity3D
-![Alt text](https://github.com/AlexNavision/TowerDefence2022.03Unity3D/raw/master/src/Frame291.png "logo")
-TestProjectFor2RealLife ![Alt text](https://github.com/AlexNavision/TowerDefence2022.03Unity3D/raw/master/src/logo.png "logo")
+![Logo](./src/Frame291.png)
+TestProjectFor2RealLife ![Logo](./src/logo.png)
 
 ### Оглавление
 1. [Приоритет](#приоритет)
