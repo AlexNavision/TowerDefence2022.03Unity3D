@@ -1,7 +1,6 @@
 # TowerDefence2022.03Unity3D
-![Лого](https://github.com/AlexNavision/TowerDefence2022.03Unity3D/raw/master/src/Frame291.png)
-TestProjectFor2RealLife ![Лого][л1]
-[л1]: https://github.com/AlexNavision/TowerDefence2022.03Unity3D/raw/master/src/logo.png
+![Logo](./src/Frame291.png)
+TestProjectFor2RealLife ![Logo](./src/logo.png)
 
 ### Оглавление
 1. [Приоритет](#приоритет)
@@ -22,7 +21,7 @@ ____
 - Враги: При клике, появляются мобы (ошибки/тики, называйте как хотите). Максимально доступное кол-во врагов для вызова на КАЖДОМ уровне отображается на панеле сверху слева.
 При клике есть вероятность, что появятся либо Тики(зеленые), либо Баги (красные). Количество багов можно увидеть на панели сверху слева.
 Баги появляются с разным здоровьем и скоростью.
-![Тик](https://github.com/AlexNavision/TowerDefence2022.03Unity3D/raw/master/src/1Kte.gif)
+![screen-gif](./src/1Kte.gif)
 - Башни
 Есть 3 уровня. Улучшайте башни чтобы повысить урон, скорость атаки и радиус обстрела.
 Башни будут атаковать Ошибки, пока они не превратятся в Тики. 
